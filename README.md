@@ -2,9 +2,13 @@
 - 👀 I’m interested in cybersecurity, ethical hacking and cloud computing.
 - 🌱 I’m currently learning ethical hacking and AWS Cloud.
 - 📫 How to reach me :
+
 **Twitter** : `@TheRealFREDP3D`
+
 **Mail** : `FredP3D@Proton.me`
+
 **LinkedIn** : LinkedIn.com/FredP3D
+
 **Web** : `www.FredP3D.com`
 
 ---
