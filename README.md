@@ -7,13 +7,12 @@
 
 **Mail** : `FredP3D@Proton.me`
 
-**LinkedIn** : LinkedIn.com/FredP3D
+**LinkedIn** : `LinkedIn.com/FredP3D`
 
 **Web** : `www.FredP3D.com`
 
 ---
-
-Still in TOP 1%
+`Tryhackme.com` **Public Profile** :
 <img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="TryHackMe">
 <!---
 TheRealFREDP3D/TheRealFREDP3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
