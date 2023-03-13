@@ -20,7 +20,7 @@ You can reach me on:
 ---
 
 `Tryhackme.com` :
-<img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1392826"></script>
 
 ---
 
