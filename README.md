@@ -15,12 +15,12 @@ You can reach me on:
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) : `@TheRealFredP3D`
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) : `www.medium.com/TheRealFredP3D`
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) : `TheRealFredP3D`
 
 ---
 
 `Tryhackme.com` :
- <img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="TryHackMe">
+ ![](https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png)
 
 ---
 
