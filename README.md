@@ -30,9 +30,9 @@ Let's keep the learning journey going, one step at a time!
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [`FredP3D`](https://www.youtube.com/@FredP3D)
 
-![`Nightcafe.studio``](https://nightcafe.studio/u/FredP3D)
+![Nightcafe.studio](https://nightcafe.studio/u/FredP3D)
 
-![`Link.Gallery``](https://link.gallery/therealfredp3d)
+![Link.Gallery](https://link.gallery/therealfredp3d)
 
 
 ---
