@@ -1,39 +1,42 @@
 # TheRealFredPD - Github Readme
 
-Hey there, I'm Frederick Pellerin, and I'm a tech enthusiast who loves spending time tinkering with all things tech!
+Hi!
+My name is Frederick Pellerin. I'm a tech enthusiast who loves to spend my spare time tinkering with all things tech!
 
-My current interests include Cybersecurity, Ethical Hacking, AI, and Cloud Computing. I'm always eager to learn and currently exploring topics like Python programming and hacking skills on THM, HTB, and HTB Academy.
+My interests are Cybersecurity, Ethical Hacking, Reverse Engineering, and Coding. I've been self-educating for most of my life. Hands-on learning. 
 
-I have a bunch of ongoing courses on platforms like AWS Skills, Microsoft Learn, Cybrary, Sololearn, and more. I tend to bounce between them as I come across new and exciting ones.
+I have been studying/training since the day I discovered that it was possible to take online hacking classes, legally and free of charge. 
 
-Besides tech, I've also been having fun experimenting with AI art generation. You can check out some of my creations on my Nightcafe.studio creator profile: https://creator.nightcafe.studio/u/Fredp3d.
+Tryhackme, Hackthebox, pwn.coolege, Proving Grounds, Pawntilldawn, Pentesterlab, ... I didn't look back since my first flag.
 
-If you want to reach me beyond GitHub, feel free to connect with me on Twitter at @TheRealFREDP3d.
+Right now, I generally use HTB, Tryhackme, pwn.college and a few small websites ( wechall.net is proposing a great collection of gamified learning resources).
+
+I am enrolled in some ongoing courses on platforms like AWS Skills, Microsoft Learn, Cybrary, Sololearn, ... I tend to bounce between them as I come across new and exciting ones.
+
+Besides tech, I've also been having fun toying with AI art generation. I humbly invite you to take a look at some of my creations. There is a link to my Nightcafe.Studio creator profile: [[FredP3D Profile @ Nightcafe.Studio](https://creator.nightcafe.studio/u/Fredp3d).]
+
+To reach me beyond GitHub, feel free to connect with me on Twitter at @TheRealFREDP3D.
 
 By the way, my native language is French, and I proudly call Quebec City, Canada my home.
 
-Let's keep the learning journey going, one step at a time!
+---
+
+*Always learning, always exploring. Join me on the journey!*
 
 ---
 
 ## Contacts
 
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) : `@TheRealFredP3D`
+|:  |  :|  
 
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) : [`FredP3D@Proton.me`](mailto:fredp3d@proton.me)
-
-![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  [`FredP3D`](https://linkedin.com/in/FredP3D)
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [`TheRealFREDP3D`](https://discordhub.com/profile/1050577907296256070)
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) [`@TheRealFredP3D`](https://medium.com/@TheRealFREDP3D)
-
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [`FredP3D`](https://www.youtube.com/@FredP3D)
-
-![Nightcafe.studio](https://nightcafe.studio/u/FredP3D)
-
-![Link.Gallery](https://link.gallery/therealfredp3d)
-
+|  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) | [TheRealFredP3D](https://twitter.com/TheRealFREDP3D)  |
+|  ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) | [FredP3D@Proton.me](mailto:fredp3d@proton.me)  |
+|  ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  |  [FredP3D](https://linkedin.com/in/FredP3D)  |
+|  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  |  [TheRealFREDP3D](https://discordhub.com/profile/1050577907296256070)  |
+|  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)  |  [@TheRealFredP3D](https://medium.com/@TheRealFREDP3D)  |
+|  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  |  [FredP3D](https://www.youtube.com/@FredP3D)  |
+|  ![Nightcafe.studio](https://nightcafe.studio/u/FredP3D)  |  |
+|  ![Link.Gallery](https://link.gallery/therealfredp3d)  |  |
 
 ---
 
@@ -50,7 +53,7 @@ Let's keep the learning journey going, one step at a time!
 
 ![HacktheBox Profile Badge](_attachement/HacktheBox%20-%20Profile.png)
 
-*(Generated with the script [HTB-HDBadgeGenerator](https://github.com/Flangvik/HTB-HDBadgeGenerator))*
+*(Generated with: [HTB-HDBadgeGenerator](https://github.com/Flangvik/HTB-HDBadgeGenerator))*
 
 ---
 
