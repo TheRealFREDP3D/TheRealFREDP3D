@@ -11,7 +11,7 @@ Tryhackme, Hackthebox, pwn.coolege, Proving Grounds, Pawntilldawn, Pentesterlab,
 
 Right now, I generally use HTB, Tryhackme, pwn.college and a few small websites ( wechall.net is proposing a great collection of gamified learning resources).
 
-I am enrolled in some ongoing courses on platforms like AWS Skills, Microsoft Learn, Cybrary, Sololearn, ... I tend to bounce between them as I come across new and exciting ones.
+I am enrolled in some ongoing courses on platforms like AWS Skills, Microsoft Learn, Cybrary, and Sololearn, ... I tend to bounce between them as I come across new and exciting ones.
 
 Besides tech, I've also been having fun toying with AI art generation. I humbly invite you to take a look at some of my creations. There is a link to my Nightcafe.Studio creator profile: [[FredP3D Profile @ Nightcafe.Studio](https://creator.nightcafe.studio/u/Fredp3d).]
 
