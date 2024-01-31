@@ -27,8 +27,7 @@ By the way, my native language is French, and I proudly call Quebec City, Canada
 
 ## Contacts
 
-|:  |  :|  
-
+|: -------------------------------- | -----------------------------------------|
 |  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) | [TheRealFredP3D](https://twitter.com/TheRealFREDP3D)  |
 |  ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) | [FredP3D@Proton.me](mailto:fredp3d@proton.me)  |
 |  ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  |  [FredP3D](https://linkedin.com/in/FredP3D)  |
