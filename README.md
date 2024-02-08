@@ -1,13 +1,14 @@
 # TheRealFredPD - Github Readme
 
-Hi!
+Hi! 
+
 My name is Frederick Pellerin. I'm a tech enthusiast who loves to spend my spare time tinkering with all things tech!
 
 My interests are Cybersecurity, Ethical Hacking, Reverse Engineering, and Coding. I've been self-educating for most of my life. Hands-on learning. 
 
 I have been studying/training since the day I discovered that it was possible to take online hacking classes, legally and free of charge. 
 
-Tryhackme, Hackthebox, pwn.coolege, Proving Grounds, Pawntilldawn, Pentesterlab, ... I didn't look back since my first flag.
+Tryhackme, Hackthebox, pwn.college, Proving Grounds, Pawntilldawn, Pentesterlab, ... I didn't look back since my first flag.
 
 Right now, I generally use HTB, Tryhackme, pwn.college and a few small websites ( wechall.net is proposing a great collection of gamified learning resources).
 
