@@ -1,28 +1,19 @@
 # TheRealFredPD - Github Readme
 
-Hi! 
+Hi! I'm Frederick Pellerin, a tech enthusiast from Quebec City, Canada. My current passion lies in cybersecurity, ethical hacking, AI, and coding. With a lifelong commitment to self-education, I've immersed myself in hands-on learning experiences from the moment I discovered the vast spectrum of online hacking classes available.
 
-My name is Frederick Pellerin. I'm a tech enthusiast who loves to spend my spare time tinkering with all things tech!
+You can usually find me grinding into challenges on learning platforms like Tryhackme, Hackthebox, and pwn.college, pursuing that next flag. I'm also enrolled in multiple ongoing courses on AWS Skills, Microsoft Learn, Cybrary, and Sololearn, seeking to expand my skill set and knowledge base.
 
-My interests are Cybersecurity, Ethical Hacking, Reverse Engineering, and Coding. I've been self-educating for most of my life. Hands-on learning. 
+Beyond the realms of tech, I dabble in AI art generation, and I'd love for you to check out some of my creations on my Nightcafe.Studio profile: [[FredP3D Profile @ Nightcafe.Studio](https://creator.nightcafe.studio/u/Fredp3d).]
+(I use and try a lot of AI platforms these days. My creations, the shareable ones, are posted on my Twitter.  No Instagram in my case.)
 
-I have been studying/training since the day I discovered that it was possible to take online hacking classes, legally and free of charge. 
+Feel free to reach out to me on Twitter at @TheRealFREDP3D.
 
-Tryhackme, Hackthebox, pwn.college, Proving Grounds, Pawntilldawn, Pentesterlab, ... I didn't look back since my first flag.
-
-Right now, I generally use HTB, Tryhackme, pwn.college and a few small websites ( wechall.net is proposing a great collection of gamified learning resources).
-
-I am enrolled in some ongoing courses on platforms like AWS Skills, Microsoft Learn, Cybrary, and Sololearn, ... I tend to bounce between them as I come across new and exciting ones.
-
-Besides tech, I've also been having fun toying with AI art generation. I humbly invite you to take a look at some of my creations. There is a link to my Nightcafe.Studio creator profile: [[FredP3D Profile @ Nightcafe.Studio](https://creator.nightcafe.studio/u/Fredp3d).]
-
-To reach me beyond GitHub, feel free to connect with me on Twitter at @TheRealFREDP3D.
-
-By the way, my native language is French, and I proudly call Quebec City, Canada my home.
+À bientôt!
 
 ---
 
-*Always learning, always exploring. Join me on the journey!*
+> Always learning, always exploring. Join me on the journey!
 
 ---
 
