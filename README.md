@@ -60,7 +60,7 @@ These days, GitHub is my playground for exploring IT and cybersecurity. The repo
 
 For the past year, I've been engrossed in HackTheBox Academy and TryHackMe. Markdown has become my muse as I've filled over 1500 pages with meticulous notes, constructing a digital vault of my discoveries in the cybersecurity realm.
 
-A new fascination has stirred within me - static site generators and GitPages. The idea of crafting my own corner of the web, a testament to my journey, has taken hold. A personal website feels like the next logical chapter in my ongoing saga.
+A new fascination has stirred within me - static site generators and GitPages. The idea of crafting my corner of the web, a testament to my journey, has taken hold. A personal website feels like the next logical chapter in my ongoing saga.
 
 And so, the embers of my youthful curiosity have reignited into a blazing passion. As I stand at the crossroads of my warehouse career and the beckoning horizon of IT, I'm compelled to chronicle my transformation. It's a tale of navigating through the bewildering maze of cyberspace, learning to decode the matrix, and eventually emerging as a guide for those who are treading the path I once ventured.
 
@@ -70,16 +70,16 @@ Join me in revisiting the trials of TryHackMe and the enigmas of HackTheBox Acad
 
 #### Tasks to Complete Before Launching My Website
 
-[X] I need to sort through my own notes and separate them from the content I clipped from websites and books. This will ensure that all the information on my website is going to be accurate and relevant and also ensure that I'm the actual author.  ==2023-04-29 == I started this week with over 1200 notes in my Obsidian Vault.  I cut it to 795!  And I did a complete reconstruction of my folder system.  **CHECK!**
+[X] I need to sort through my notes and separate them from the content I clipped from websites and books. This will ensure that all the information on my website is going to be accurate and relevant and also ensure that I'm the actual author.  ==2023-04-29 == I started this week with over 1200 notes in my Obsidian Vault.  I cut it to 795!  And I did a complete reconstruction of my folder system.  **CHECK!**
 
 [] I also need to learn how to use a static site generator like Jekyll, Hugo, or 11th. This will allow me to easily create and maintain my website without having to write complex code from scratch.
 
 [X] ***(Work in progress)*** The fact that English is not my natural language, I need to write regularly to improve my grammar and communication skills. I've been using Grammarly to help me with this, and I plan to continue writing regularly to maintain my progress.  
 
-[X] Publish on Medium.com - **It's done.** I published a text about how I end up deeply needing to change my professional path and how a 38 years old warehouse manager choose without hesitation IT and Cybersecurity as a dream life.  I also published a writeup for the [Tryhackme room: Brute-It](https://tryhackme.com/room/bruteit).
+[X] Publish on Medium.com - **It's done.** I published a text about how I ended up deeply needing to change my professional path and how a 38-year-old warehouse manager choose without hesitation IT and Cybersecurity as a dream life.  I also published a write-up for the [Tryhackme room: Brute-It](https://tryhackme.com/room/bruteit).
 
-[] To ensure that my website provides valuable content, I plan to revisit every TryHackMe room and HTB Academy module I completed. Now that I have accumulated some experience,  I am able to share my notes, additional resources, and alternative tools, or at least share my personal journey (Win&Fails).
-***3-11-2023 - Update: Tryhackme updated some of their learning path. So far I have finished the Burp Suite series.***
+[] To ensure that my website provides valuable content, I plan to revisit every TryHackMe room and HTB Academy module I completed. Now that I have accumulated some experience,  I can share my notes, additional resources, and alternative tools, or at least share my journey (Win&Fails).
+***3-11-2023 - Update: Tryhackme updated some of their learning paths. So far I have finished the Burp Suite series.***
 
 [] In addition to improving my technical skills, I plan to obtain my AWS Certified Cloud Practitioner Certification.  I'm also getting (ISC)2 - Certified Cybersecurity.
 ***3-11-2023 - Update:*** I've almost completed the ISC2 CC course but my free subscription isn't valid anymore.  Don't plan to return to it because I feel that I learn most of the content of this course.
@@ -104,8 +104,12 @@ I make all my notes on ![Obsidian](https://img.shields.io/badge/Obsidian-%234836
 
 This repository is managed with ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white).
 
-My system runs on : ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white).
+My system runs on: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white).
 
 For hacking, I run a ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) VM using VMware Workstation.
 
 ---
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@TheRealFredP3D/30-nites-of-code)  
+  ![@TheRealFredP3D #30NitesOfCode](https://www.codedex.io/api/petStatus?user=TheRealFredP3D)
