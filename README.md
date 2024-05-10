@@ -1,3 +1,13 @@
+---
+title: README
+tags: []
+reference:
+last-modified:
+status:
+date of creation: Thursday, November 2nd 2023, 9:16:47 pm
+date modified: Sunday, May 5th 2024, 1:43:08 am
+---
+
 # TheRealFredPD - Github Readme
 
 Hey there, I'm Frederick Pellerin, and I'm a tech enthusiast who loves spending time tinkering with all things tech!
@@ -22,7 +32,7 @@ Let's keep the learning journey going, one step at a time!
 
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) : [`FredP3D@Proton.me`](mailto:fredp3d@proton.me)
 
-![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  [`FredP3D`](https://linkedin.com/in/FredP3D)
+![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [`FredP3D`](https://linkedin.com/in/FredP3D)
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [`TheRealFREDP3D`](https://discordhub.com/profile/1050577907296256070)
 
@@ -34,17 +44,13 @@ Let's keep the learning journey going, one step at a time!
 
 ![`Link.Gallery``](https://link.gallery/therealfredp3d)
 
-
 ---
-
 
 **`Tryhackme.com - Public Profile Badge`**
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="TryHackMe">
 
-
 ---
-
 
 **`HackTheBox - Profile Badge`**
 
@@ -78,19 +84,19 @@ Join me in revisiting the trials of TryHackMe and the enigmas of HackTheBox Acad
 
 #### Tasks to Complete Before Launching My Website
 
-[X] I need to sort through my own notes and separate them from the content I clipped from websites and books. This will ensure that all the information on my website is going to be accurate and relevant and also ensure that I'm the actual author.  ==2023-04-29 == I started this week with over 1200 notes in my Obsidian Vault.  I cut it to 795!  And I did a complete reconstruction of my folder system.  **CHECK!**
+[X] I need to sort through my own notes and separate them from the content I clipped from websites and books. This will ensure that all the information on my website is going to be accurate and relevant and also ensure that I'm the actual author. ==2023-04-29 == I started this week with over 1200 notes in my Obsidian Vault. I cut it to 795! And I did a complete reconstruction of my folder system. **CHECK!**
 
 [] I also need to learn how to use a static site generator like Jekyll, Hugo, or 11th. This will allow me to easily create and maintain my website without having to write complex code from scratch.
 
 [X] ***(Work in progress)*** The fact that English is not my natural language, I need to write regularly to improve my grammar and communication skills. I've been using Grammarly to help me with this, and I plan to continue writing regularly to maintain my progress.  
 
-[X] Publish on Medium.com - **It's done.** I published a text about how I end up deeply needing to change my professional path and how a 38 years old warehouse manager choose without hesitation IT and Cybersecurity as a dream life.  I also published a writeup for the [Tryhackme room: Brute-It](https://tryhackme.com/room/bruteit).
+[X] Publish on Medium.com - **It's done.** I published a text about how I end up deeply needing to change my professional path and how a 38 years old warehouse manager choose without hesitation IT and Cybersecurity as a dream life. I also published a writeup for the [Tryhackme room: Brute-It](https://tryhackme.com/room/bruteit).
 
-[] To ensure that my website provides valuable content, I plan to revisit every TryHackMe room and HTB Academy module I completed. Now that I have accumulated some experience,  I am able to share my notes, additional resources, and alternative tools, or at least share my personal journey (Win&Fails).
+[] To ensure that my website provides valuable content, I plan to revisit every TryHackMe room and HTB Academy module I completed. Now that I have accumulated some experience, I am able to share my notes, additional resources, and alternative tools, or at least share my personal journey (Win&Fails).  
 ***3-11-2023 - Update: Tryhackme updated some of their learning path. So far I have finished the Burp Suite series.***
 
-[] In addition to improving my technical skills, I plan to obtain my AWS Certified Cloud Practitioner Certification.  I'm also getting (ISC)2 - Certified Cybersecurity.
-***3-11-2023 - Update:*** I've almost completed the ISC2 CC course but my free subscription isn't valid anymore.  Don't plan to return to it because I feel that I learn most of the content of this course.
+[] In addition to improving my technical skills, I plan to obtain my AWS Certified Cloud Practitioner Certification. I'm also getting (ISC)2 - Certified Cybersecurity.  
+***3-11-2023 - Update:*** I've almost completed the ISC2 CC course but my free subscription isn't valid anymore. Don't plan to return to it because I feel that I learn most of the content of this course.
 
 [] Finally, I will keep training on HackTheBox Academy and TryHackMe and I will try to upscale my online presence and grow my network.
 
