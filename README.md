@@ -10,19 +10,20 @@ date modified: Sunday, May 5th 2024, 1:43:08 am
 
 # TheRealFredPD - Github Readme
 
-Hey there, I'm Frederick Pellerin, and I'm a tech enthusiast who loves spending time tinkering with all things tech!
+Hi! I'm Frederick Pellerin, a tech enthusiast from Quebec City, Canada. My current passion lies in cybersecurity, ethical hacking, AI, and coding. With a lifelong commitment to self-education, I've immersed myself in hands-on learning experiences from the moment I discovered the vast spectrum of online hacking classes available.
 
-My current interests include Cybersecurity, Ethical Hacking, AI, and Cloud Computing. I'm always eager to learn and currently exploring topics like Python programming and hacking skills on THM, HTB, and HTB Academy.
+You can usually find me grinding into challenges on learning platforms like Tryhackme, Hackthebox, and pwn.college, pursuing that next flag. I'm also enrolled in multiple ongoing courses on AWS Skills, Microsoft Learn, Cybrary, and Sololearn, seeking to expand my skill set and knowledge base.
 
-I have a bunch of ongoing courses on platforms like AWS Skills, Microsoft Learn, Cybrary, Sololearn, and more. I tend to bounce between them as I come across new and exciting ones.
+Beyond the realms of tech, I dabble in AI art generation, and I'd love for you to check out some of my creations on my Nightcafe.Studio profile: [[FredP3D Profile @ Nightcafe.Studio](https://creator.nightcafe.studio/u/Fredp3d).]
+(I use and try a lot of AI platforms these days. My creations, the shareable ones, are posted on my Twitter.  No Instagram in my case.)
 
-Besides tech, I've also been having fun experimenting with AI art generation. You can check out some of my creations on my Nightcafe.studio creator profile: https://creator.nightcafe.studio/u/Fredp3d.
+Feel free to reach out to me on Twitter at @TheRealFREDP3D.
 
-If you want to reach me beyond GitHub, feel free to connect with me on Twitter at @TheRealFREDP3d.
+À bientôt!
 
-By the way, my native language is French, and I proudly call Quebec City, Canada my home.
+---
 
-Let's keep the learning journey going, one step at a time!
+> Always learning, always exploring. Join me on the journey!
 
 ---
 
@@ -43,6 +44,16 @@ Let's keep the learning journey going, one step at a time!
 ![`Nightcafe.studio``](https://nightcafe.studio/u/FredP3D)
 
 ![`Link.Gallery``](https://link.gallery/therealfredp3d)
+|  Platform                                                                                                             |              Link                                                       |
+|  :---------------------------------------------------------------------------------------------------------------:    |  :-------------------------------------------------------------------:  |
+|  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)      |  [TheRealFredP3D](https://twitter.com/TheRealFREDP3D)                   | 
+|  ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)    |  [FredP3D@Proton.me](mailto:fredp3d@proton.me)                          | 
+|  ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   |  [FredP3D](https://linkedin.com/in/FredP3D)                             |
+|  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)      |  [TheRealFREDP3D](https://discordhub.com/profile/1050577907296256070)   |
+|  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)                |  [@TheRealFredP3D](https://medium.com/@TheRealFREDP3D)                  |  
+|  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)      |  [FredP3D](https://www.youtube.com/@FredP3D)                            |
+|  **NightCafe.Studio Gallery**                                                                                         |  [Nightcafe.studio](https://nightcafe.studio/u/FredP3D)                 |
+|  **Link.Gallery**                                                                                                     |  [Link.Gallery](https://link.gallery/therealfredp3d)                    |
 
 ---
 
@@ -56,7 +67,7 @@ Let's keep the learning journey going, one step at a time!
 
 ![HacktheBox Profile Badge](_attachement/HacktheBox%20-%20Profile.png)
 
-*(Generated with the script [HTB-HDBadgeGenerator](https://github.com/Flangvik/HTB-HDBadgeGenerator))*
+*(Generated with: [HTB-HDBadgeGenerator](https://github.com/Flangvik/HTB-HDBadgeGenerator))*
 
 ---
 
@@ -74,7 +85,7 @@ These days, GitHub is my playground for exploring IT and cybersecurity. The repo
 
 For the past year, I've been engrossed in HackTheBox Academy and TryHackMe. Markdown has become my muse as I've filled over 1500 pages with meticulous notes, constructing a digital vault of my discoveries in the cybersecurity realm.
 
-A new fascination has stirred within me - static site generators and GitPages. The idea of crafting my own corner of the web, a testament to my journey, has taken hold. A personal website feels like the next logical chapter in my ongoing saga.
+A new fascination has stirred within me - static site generators and GitPages. The idea of crafting my corner of the web, a testament to my journey, has taken hold. A personal website feels like the next logical chapter in my ongoing saga.
 
 And so, the embers of my youthful curiosity have reignited into a blazing passion. As I stand at the crossroads of my warehouse career and the beckoning horizon of IT, I'm compelled to chronicle my transformation. It's a tale of navigating through the bewildering maze of cyberspace, learning to decode the matrix, and eventually emerging as a guide for those who are treading the path I once ventured.
 
@@ -84,16 +95,16 @@ Join me in revisiting the trials of TryHackMe and the enigmas of HackTheBox Acad
 
 #### Tasks to Complete Before Launching My Website
 
-[X] I need to sort through my own notes and separate them from the content I clipped from websites and books. This will ensure that all the information on my website is going to be accurate and relevant and also ensure that I'm the actual author. ==2023-04-29 == I started this week with over 1200 notes in my Obsidian Vault. I cut it to 795! And I did a complete reconstruction of my folder system. **CHECK!**
+[X] I need to sort through my notes and separate them from the content I clipped from websites and books. This will ensure that all the information on my website is going to be accurate and relevant and also ensure that I'm the actual author.  ==2023-04-29 == I started this week with over 1200 notes in my Obsidian Vault.  I cut it to 795!  And I did a complete reconstruction of my folder system.  **CHECK!**
 
 [] I also need to learn how to use a static site generator like Jekyll, Hugo, or 11th. This will allow me to easily create and maintain my website without having to write complex code from scratch.
 
 [X] ***(Work in progress)*** The fact that English is not my natural language, I need to write regularly to improve my grammar and communication skills. I've been using Grammarly to help me with this, and I plan to continue writing regularly to maintain my progress.  
 
-[X] Publish on Medium.com - **It's done.** I published a text about how I end up deeply needing to change my professional path and how a 38 years old warehouse manager choose without hesitation IT and Cybersecurity as a dream life. I also published a writeup for the [Tryhackme room: Brute-It](https://tryhackme.com/room/bruteit).
+[X] Publish on Medium.com - **It's done.** I published a text about how I ended up deeply needing to change my professional path and how a 38-year-old warehouse manager choose without hesitation IT and Cybersecurity as a dream life.  I also published a write-up for the [Tryhackme room: Brute-It](https://tryhackme.com/room/bruteit).
 
-[] To ensure that my website provides valuable content, I plan to revisit every TryHackMe room and HTB Academy module I completed. Now that I have accumulated some experience, I am able to share my notes, additional resources, and alternative tools, or at least share my personal journey (Win&Fails).  
-***3-11-2023 - Update: Tryhackme updated some of their learning path. So far I have finished the Burp Suite series.***
+[] To ensure that my website provides valuable content, I plan to revisit every TryHackMe room and HTB Academy module I completed. Now that I have accumulated some experience,  I can share my notes, additional resources, and alternative tools, or at least share my journey (Win&Fails).
+***3-11-2023 - Update: Tryhackme updated some of their learning paths. So far I have finished the Burp Suite series.***
 
 [] In addition to improving my technical skills, I plan to obtain my AWS Certified Cloud Practitioner Certification. I'm also getting (ISC)2 - Certified Cybersecurity.  
 ***3-11-2023 - Update:*** I've almost completed the ISC2 CC course but my free subscription isn't valid anymore. Don't plan to return to it because I feel that I learn most of the content of this course.
@@ -118,7 +129,7 @@ I make all my notes on ![Obsidian](https://img.shields.io/badge/Obsidian-%234836
 
 This repository is managed with ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white).
 
-My system runs on : ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white).
+My system runs on: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white).
 
 For hacking, I run a ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) VM using VMware Workstation.
 
