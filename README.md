@@ -1,13 +1,3 @@
----
-title: README
-tags: []
-reference:
-last-modified:
-status:
-date of creation: Thursday, November 2nd 2023, 9:16:47 pm
-date modified: Sunday, May 5th 2024, 1:43:08 am
----
-
 # TheRealFredPD - Github Readme
 
 Hi! I'm Frederick Pellerin, a tech enthusiast from Quebec City, Canada. My current passion lies in cybersecurity, ethical hacking, AI, and coding. With a lifelong commitment to self-education, I've immersed myself in hands-on learning experiences from the moment I discovered the vast spectrum of online hacking classes available.
@@ -29,21 +19,6 @@ Feel free to reach out to me on Twitter at @TheRealFREDP3D.
 
 ## Contacts
 
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) : `@TheRealFredP3D`
-
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) : [`FredP3D@Proton.me`](mailto:fredp3d@proton.me)
-
-![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [`FredP3D`](https://linkedin.com/in/FredP3D)
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [`TheRealFREDP3D`](https://discordhub.com/profile/1050577907296256070)
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) [`@TheRealFredP3D`](https://medium.com/@TheRealFREDP3D)
-
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [`FredP3D`](https://www.youtube.com/@FredP3D)
-
-![`Nightcafe.studio``](https://nightcafe.studio/u/FredP3D)
-
-![`Link.Gallery``](https://link.gallery/therealfredp3d)
 |  Platform                                                                                                             |              Link                                                       |
 |  :---------------------------------------------------------------------------------------------------------------:    |  :-------------------------------------------------------------------:  |
 |  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)      |  [TheRealFredP3D](https://twitter.com/TheRealFREDP3D)                   | 
