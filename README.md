@@ -109,3 +109,5 @@ My system runs on: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=
 For hacking, I run a ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) VM using VMware Workstation.
 
 ---
+
+[![autocomplete](https://codeium.com/badges/user/therealfredp3d/autocomplete)](https://codeium.com/profile/therealfredp3d)[![autocomplete](https://codeium.com/badges/user/therealfredp3d/autocomplete)](https://codeium.com/profile/therealfredp3d)
