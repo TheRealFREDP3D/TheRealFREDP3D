@@ -1,5 +1,4 @@
 # TheRealFredPD - Github Readme
-[![autocomplete](https://codeium.com/badges/user/therealfredp3d/autocomplete)](https://codeium.com/profile/therealfredp3d)
 
 Hi! I'm Frederick Pellerin, a tech enthusiast from Quebec City, Canada. My current passion lies in cybersecurity, ethical hacking, AI, and coding. With a lifelong commitment to self-education, I've immersed myself in hands-on learning experiences from the moment I discovered the vast spectrum of online hacking classes available.
 
@@ -110,3 +109,4 @@ My system runs on: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=
 For hacking, I run a ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) VM using VMware Workstation.
 
 ---
+[![autocomplete](https://codeium.com/badges/user/therealfredp3d/autocomplete)](https://codeium.com/profile/therealfredp3d)
