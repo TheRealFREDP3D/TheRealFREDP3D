@@ -90,17 +90,15 @@ Join me in revisiting the trials of TryHackMe and the enigmas of HackTheBox Acad
 
 ## Latest News
 
-### 2023-03-31
-
-[X] Added `My-Daily-Notes` Directory.
-
-### 2023-04-13
-
-[X] Added `My-Writeups` Directory.
+- Python training is going fine at a slow pace. I'm about to finish the material to go take the **PCEP - Python for Entry-Level Prorammer** exam. I don't intend to but the course is great. 
+   
+- Started working on a small game to gain coding experience.
+- 
+- I'm into AI learning. Took some course from Google and Microsoft. Now I experiment with anything I can. I think AI is going to overthrow my focus on cybersecurity. I still do train on Hackthebox and a couple of platform almost daily but my interest toward AI possibilities is growing at a rapid pace.
 
 ---
 
-I make all my notes on ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white).
+All my are made using ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white).
 
 This repository is managed with ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white).
 
@@ -109,4 +107,5 @@ My system runs on: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=
 For hacking, I run a ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) VM using VMware Workstation.
 
 ---
-[![autocomplete](https://codeium.com/badges/user/therealfredp3d/autocomplete)](https://codeium.com/profile/therealfredp3d)
+
+To assist me learning to code I am testing [![autocomplete](https://codeium.com/badges/user/therealfredp3d/autocomplete)](https://codeium.com/profile/therealfredp3d)
