@@ -51,6 +51,19 @@ WeChall.Net
 
 ---
 
+echoctf.red
+
+![image](https://github.com/user-attachments/assets/5777513e-e46d-4513-bce3-0675dd7e56a3)
+
+---
+
+Hackviser
+
+![image](https://github.com/user-attachments/assets/1207313c-54e0-4c6e-9ea5-4c7aac20d2f1)
+
+---
+
+
 ### Rediscovering My Passion: A Journey from Childhood Obsession to Cybersecurity
 
 As a kid, I was drawn to the world of computers like a moth to a flame. The day my father brought home an IBM Clone 386 running MS-DOS was the day my fascination ignited. I was just 7-8 years old then, and those early interactions with the command line, mastering the "cd" and "dir" commands, felt like deciphering arcane spells.
