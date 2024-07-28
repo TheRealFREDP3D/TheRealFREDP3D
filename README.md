@@ -46,6 +46,11 @@ Feel free to reach out to me on Twitter at @TheRealFREDP3D.
 
 ---
 
+WeChall.Net
+![image](https://github.com/user-attachments/assets/edee9f2a-3e69-46fe-992e-f5e1d4c442aa)
+
+---
+
 ### Rediscovering My Passion: A Journey from Childhood Obsession to Cybersecurity
 
 As a kid, I was drawn to the world of computers like a moth to a flame. The day my father brought home an IBM Clone 386 running MS-DOS was the day my fascination ignited. I was just 7-8 years old then, and those early interactions with the command line, mastering the "cd" and "dir" commands, felt like deciphering arcane spells.
