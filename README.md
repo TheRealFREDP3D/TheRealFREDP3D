@@ -1,5 +1,7 @@
 # TheRealFredPD - Github Readme
 
+![ComputerLab](<_attachement/computer lab HighRes.jpg>)
+
 Hi! I'm Frederick Pellerin, a tech enthusiast from Quebec City, Canada. My current passion lies in cybersecurity, ethical hacking, AI, and coding. With a lifelong commitment to self-education, I've immersed myself in hands-on learning experiences from the moment I discovered the vast spectrum of online hacking classes available.
 
 You can usually find me grinding into challenges on learning platforms like Tryhackme, Hackthebox, and pwn.college, pursuing that next flag. I'm also enrolled in multiple ongoing courses on AWS Skills, Microsoft Learn, Cybrary, and Sololearn, seeking to expand my skill set and knowledge base.
