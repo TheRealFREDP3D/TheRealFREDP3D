@@ -42,9 +42,7 @@ Feel free to reach out to me on Twitter at @TheRealFREDP3D.
 
 **`HackTheBox - Profile Badge`**
 
-![HacktheBox Profile Badge](_attachement/HacktheBox%20-%20Profile.png)
-
-*(Generated with: [HTB-HDBadgeGenerator](https://github.com/Flangvik/HTB-HDBadgeGenerator))*
+![HTB_profile](_attachement/htb_profile.png)
 
 ---
 
