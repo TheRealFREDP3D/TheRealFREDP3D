@@ -94,31 +94,34 @@ Join me in revisiting the trials of TryHackMe and the enigmas of HackTheBox Acad
 
 #### Tasks to Complete Before Launching My Website
 
-[X] I need to sort through my notes and separate them from the content I clipped from websites and books. This will ensure that all the information on my website is going to be accurate and relevant and also ensure that I'm the actual author.  ==2023-04-29 == I started this week with over 1200 notes in my Obsidian Vault.  I cut it to 795!  And I did a complete reconstruction of my folder system.  **CHECK!**
+[X] I need to sort through my notes and separate them from the content I clipped from websites and books. This will ensure that all the information on my website is going to be accurate and relevant and also ensure that I'm the actual author. ✔️  
+**2023-04-29** I started the week with over 1200 notes in my Obsidian Vault.  I cut it down to 795!  And I did a complete makeover of my classification system. 
 
-[] I also need to learn how to use a static site generator like Jekyll, Hugo, or 11th. This will allow me to easily create and maintain my website without having to write complex code from scratch.
+[] I also need to learn how to use a static site generator like Jekyll, Hugo, or 11th. This will allow me to easily create and maintain a website without too much energy, reusing my notes.
 
 [X] ***(Work in progress)*** The fact that English is not my natural language, I need to write regularly to improve my grammar and communication skills. I've been using Grammarly to help me with this, and I plan to continue writing regularly to maintain my progress.  
 
-[X] Publish on Medium.com - **It's done.** I published a text about how I ended up deeply needing to change my professional path and how a 38-year-old warehouse manager choose without hesitation IT and Cybersecurity as a dream life.  I also published a write-up for the [Tryhackme room: Brute-It](https://tryhackme.com/room/bruteit).
+[X] Publish on Medium.com - **DONE** ✔️ 
+- I published a text about how I ended up deeply needing to change my professional path and how a 38-year-old warehouse manager chose without hesitation IT and Cybersecurity as a dream life.  
+- I also published a write-up for the [Tryhackme room: Brute-It](https://tryhackme.com/room/bruteit).
 
 [] To ensure that my website provides valuable content, I plan to revisit every TryHackMe room and HTB Academy module I completed. Now that I have accumulated some experience,  I can share my notes, additional resources, and alternative tools, or at least share my journey (Win&Fails).
-***3-11-2023 - Update: Tryhackme updated some of their learning paths. So far I have finished the Burp Suite series.***
+**3-11-2023 - Update** Tryhackme updated some of their learning paths. So far I have finished the Burp Suite series. 🖊️
 
 [] In addition to improving my technical skills, I plan to obtain my AWS Certified Cloud Practitioner Certification. I'm also getting (ISC)2 - Certified Cybersecurity.  
-***3-11-2023 - Update:*** I've almost completed the ISC2 CC course but my free subscription isn't valid anymore. Don't plan to return to it because I feel that I learn most of the content of this course.
+**3-11-2023 - Update** I've almost completed the ISC2 CC course but my free subscription isn't valid anymore. I don't plan to return to it. I feel that I learned most of the content of this course. 
 
-[] Finally, I will keep training on HackTheBox Academy and TryHackMe and I will try to upscale my online presence and grow my network.
+[X] Finally, I will keep training on HackTheBox Academy and TryHackMe and I will try to upscale my online presence and grow my network. ✔️
 
 ---
 
 ## Latest News
 
-- Python training is going fine at a slow pace. I'm about to finish the material to go take the **PCEP - Python for Entry-Level Prorammer** exam. I don't intend to but the course is great. 
+- Python training is going fine at a slow pace. I'm about to finish the material to take the **PCEP - Python for Entry-Level Programmer** exam. I don't intend to but the course is great. 
    
 - Started working on a small game to gain coding experience. 
 
-- I'm into AI learning. Took some course from Google and Microsoft. Now I experiment with anything I can. I think AI is going to overthrow my focus on cybersecurity. I still do train on Hackthebox and a couple of platform almost daily but my interest toward AI possibilities is growing at a rapid pace.
+- I have been experimenting with AI lately. I completed some courses from Google and Microsoft, and since then, I have experimented with anything I can put my hands on. I think AI is going to overthrow my focus on cybersecurity. I still train on Hackthebox and a couple of platforms almost daily, but my interest in AI possibilities is growing at a rapid pace.
 
 ---
 
@@ -129,7 +132,3 @@ This repository is managed with ![Visual Studio Code](https://img.shields.io/bad
 My system runs on: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white).
 
 For hacking, I run a ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) VM using VMware Workstation.
-
----
-
-To assist me learning to code I am testing [![autocomplete](https://codeium.com/badges/user/therealfredp3d/autocomplete)](https://codeium.com/profile/therealfredp3d)
