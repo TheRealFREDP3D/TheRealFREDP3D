@@ -132,3 +132,7 @@ This repository is managed with ![Visual Studio Code](https://img.shields.io/bad
 My system runs on: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white).
 
 For hacking, I run a ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) VM using VMware Workstation.
+
+---
+
+[![Frederick Pellerin profile views](https://u8views.com/api/v1/github/profiles/120782828/views/day-week-month-total-count.svg)](https://u8views.com/github/TheRealFREDP3D)
