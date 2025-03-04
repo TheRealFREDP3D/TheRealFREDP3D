@@ -78,7 +78,9 @@ I'm a dedicated self-learner with a straightforward approach:
 **📊 WeChall Stats**  
 
   <img src="./_attachement/WeChall-Profile.jpg" alt="WeChall Profile">  
+
   <br>  
+    
   <img src="./_attachement/wechall-graph.png" alt="WeChall XP Graph">    
 
 ---  
