@@ -80,7 +80,7 @@ I'm a dedicated self-learner with a straightforward approach:
   <img src="./_attachement/WeChall-Profile.jpg" alt="WeChall Profile">  
 
   <br>  
-    
+
   <img src="./_attachement/wechall-graph.png" alt="WeChall XP Graph">    
 
 ---  
@@ -91,7 +91,7 @@ I'm a dedicated self-learner with a straightforward approach:
 
 ---  
 
-**📊 GitHub Stats**
+**📊 GitHub Stats**  
 
 <video controls src="_attachement/2024-Unwraped.mp4" title="Title"></video>  
 
