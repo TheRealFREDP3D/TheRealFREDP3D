@@ -63,9 +63,9 @@ I'm a dedicated self-learner with a straightforward approach:
 
 <div align="center">
 
-**📊 TryHackMe**
+**📊 Certificates**
 
-  <iframe src="https://therealfredp3d.notion.site/ebd/1d5795af396a80dcab48d1d18ac7b7b2?v=1d5795af396a817f9f88000c068a14f9" width="100%" height="600" frameborder="0" allowfullscreen />
+[View the Notion page](https://therealfredp3d.notion.site/ebd/1d5795af396a80dcab48d1d18ac7b7b2?v=1d5795af396a817f9f88000c068a14f9)
 
 ---  
 
