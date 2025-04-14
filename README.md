@@ -65,7 +65,7 @@ I'm a dedicated self-learner with a straightforward approach:
 
 **📊 TryHackMe**
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="TryHackMe">  
+  <iframe src="https://therealfredp3d.notion.site/ebd/1d5795af396a80dcab48d1d18ac7b7b2?v=1d5795af396a817f9f88000c068a14f9" width="100%" height="600" frameborder="0" allowfullscreen />
 
 ---  
 
@@ -77,17 +77,13 @@ I'm a dedicated self-learner with a straightforward approach:
 
 **📊 WeChall Stats**  
 
-  <img src="./_attachement/WeChall-Profile.jpg" alt="WeChall Profile">  
-
-  <br>  
-
-  <img src="./_attachement/wechall-graph.png" alt="WeChall XP Graph">    
+ <img src="./_attachement/wechall-graph.png" alt="WeChall XP Graph">    
 
 ---  
 
-**📊 echoCTF.red Stats**
+**📊 echoCTF.red Stats**  
 
-  <a href="https://echoctf.red/profile/1282669/badge"><img src="https://echoctf.red/profile/1282669/badge" alt="echoCTF.RED"></a>
+  <a href="https://echoctf.red/profile/1282669/badge"><img src="https://echoctf.red/profile/1282669/badge" alt="echoCTF.RED"></a>  
 
 ---  
 
@@ -97,7 +93,8 @@ I'm a dedicated self-learner with a straightforward approach:
 
 ---  
 
-  <a href="https://gitroll.io/profile/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2"><img src="https://gitroll.io/api/badges/profiles/v1/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2?theme=nord" alt="GitRoll Profile Badge"></a>
+<a href="https://gitroll.io/profile/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2">
+  <img src="https://gitroll.io/api/badges/profiles/v1/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2?theme=nord" alt="GitRoll Profile Badge"></a>
 </div>  
 
 ---  
