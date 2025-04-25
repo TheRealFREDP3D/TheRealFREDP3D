@@ -30,9 +30,10 @@ Tech enthusiast from Quebec City, Canada with a passion for cybersecurity, AI, a
 
 A crew of AI agents that find world news demonstrating how George Orwell's "1984" remains relevant today. The system generates reports and illustration prompts.
 
-### [BanditGUI](https://github.com/therealfredp3d/BanditGUI)
+### [Making-BanditGUI](https://github.com/therealfredp3d/Making-BanditGUI)
 
-A GUI tool to help players complete the Bandit challenges on OverTheWire.
+A GUI tool to help players complete the Bandit challenges on OverTheWire. I  
+retired the first version and now working on a remake.
 
 ### [Mix Coding Exercises]((https://github.com/therealfredp3d/Coding-Exercises))
 
