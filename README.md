@@ -41,7 +41,7 @@ Just for fun collection of Gemini small poems generated with Pull Request Review
 
 ### [PullPal](https://github.com/TheRealFREDP3D/PullPal)  
 
-Get a transcript of a pull request conversation, and related issues. Any PR # from any public repo. Quickly consult old conversation with PR AI bots.  
+Get transcripts of any pull request conversation/commentary and its linked issues. Any PR # from any public repo. Quickly consult old conversation with PR AI bots. Uses Github API. 
 
 ### [Mix Coding Exercises](https://github.com/therealfredp3d/Coding-Exercises)
 
