@@ -37,7 +37,11 @@ A GUI tool to help players complete the Bandit challenges on OverTheWire, in a w
 
 ### [Gemini Code Assistant PR Poetry](https://github.com/TheRealFREDP3D/Gemini-Code-Assist-PR-Poetry)  
 
-Just for fun collection of Gemini small poems generated with Pull Request Reviews.
+Just for fun collection of Gemini small poems generated with Pull Request Reviews.  
+
+### [PullPal](https://github.com/TheRealFREDP3D/PullPal)  
+
+Get a transcript of a pull request conversation, and related issues for quickly grab any old an old conversation with PR AI bots from any public repository.  
 
 ### [Mix Coding Exercises](https://github.com/therealfredp3d/Coding-Exercises)
 
