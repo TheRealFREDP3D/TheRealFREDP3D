@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Header](_attachement/header.jpg)]
+  <img src="_attachement/header.jpg" alt="Header Image">  
   
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheRealFREDP3D)
   [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FredP3D)
@@ -32,10 +32,14 @@ A crew of AI agents that find world news demonstrating how George Orwell's "1984
 
 ### [Making-BanditGUI](https://github.com/therealfredp3d/Making-BanditGUI)
 
-A GUI tool to help players complete the Bandit challenges on OverTheWire. I  
-retired the first version and now working on a remake.
+A GUI tool to help players complete the Bandit challenges on OverTheWire, in a web browser. Still a work in progress.  
+`Level 0` is playable now. 
 
-### [Mix Coding Exercises]((https://github.com/therealfredp3d/Coding-Exercises))
+### [Gemini Code Assistant PR Poetry](https://github.com/TheRealFREDP3D/Gemini-Code-Assist-PR-Poetry)  
+
+Just for fun collection of Gemini small poems generated with Pull Request Reviews.
+
+### [Mix Coding Exercises](https://github.com/therealfredp3d/Coding-Exercises)
 
 A collection scripts I made learning to code, solving CTF, reading books, etc.  
 
@@ -107,7 +111,6 @@ I'm a dedicated self-learner with a straightforward approach:
   <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg" alt="Most Commit Language">
   <br>
   <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg" alt="Stats">
-  <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg" alt="Productive Time">
 
 ---  
 
@@ -126,8 +129,9 @@ I'm a dedicated self-learner with a straightforward approach:
   - [x] Article about planning my career change to IT/Cybersecurity
   - [x] Write-up for TryHackMe's "Brute-It" room
   
-- [ ] `**Work in progress**: N-PROGRESS` Learn static site generators (Jekyll, Hugo, or 11ty)
-- [ ] `**Work in progress**`: Regular writing to improve English language skills
+- [ ] `**Work in progress**: IN-PROGRESS` Learn static site generators (Jekyll, Hugo, or 11ty)  
+  
+- **Continous Work**`: Regular writing to improve English language skills
 
 ---  
 
@@ -135,4 +139,4 @@ I'm a dedicated self-learner with a straightforward approach:
 
 ---  
 
-*Last updated: March 2nd, 2025*
+*Last updated: May 2nd, 2025*
