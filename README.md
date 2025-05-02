@@ -70,7 +70,7 @@ I'm a dedicated self-learner with a straightforward approach:
 
 **📊 Certificates**
 
-[View the Notion page](https://therealfredp3d.notion.site/ebd/1d5795af396a80dcab48d1d18ac7b7b2?v=1d5795af396a817f9f88000c068a14f9)
+[View the Notion page](https://therealfred.notion.site/1d5795af396a80dcab48d1d18ac7b7b2?v=1d5795af396a817f9f88000c068a14f9&pvs=74)
 
 ---  
 
