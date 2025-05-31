@@ -47,6 +47,10 @@ Get transcripts of any pull request conversation/commentary and its linked issue
 
 A collection scripts I made learning to code, solving CTF, reading books, etc.  
 
+### [CTF-Toolkit](https://github.com/TheRealFREDP3D/CTF-TUI)  
+
+The CTF Toolkit provides an integrated environment combining terminal operations, note-taking, AI assistance, and tool management in a single, efficient interface. Built with Python's Textual framework, it aims to enhance productivity for CTF players  
+
 ### Coming Soon
 
 - Personal website documenting my learning journey
