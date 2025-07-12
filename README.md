@@ -106,9 +106,7 @@ I'm a dedicated self-learner with a straightforward approach:
 
 ---  
 
-<a href="https://gitroll.io/profile/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2?theme=nord" alt="GitRoll Profile Badge"></a>
-</div>  
+<a href="https://gitroll.io/profile/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2?theme=midnight" alt="GitRoll Profile Badge"/></a> 
 
 ---  
 
