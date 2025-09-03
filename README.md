@@ -84,7 +84,14 @@ I'm a dedicated self-learner with a straightforward approach:
 
 **📊 Hackthebox Stats**
 
-  <img src="_attachement/htb_profile.png" alt="HackTheBox Profile">
+  <img src="_attachement/htb_profile.png" alt="HackTheBox Profile">  
+
+--- 
+
+**📊 Tryhackme Stats**
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1392826" style='border:none;'></iframe>
+
 
 ---  
 
