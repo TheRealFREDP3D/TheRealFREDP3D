@@ -90,8 +90,7 @@ I'm a dedicated self-learner with a straightforward approach:
 
 **📊 Tryhackme Stats**
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1392826" style='border:none;'></iframe>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="Your Image Badge" />  
 
 ---  
 
