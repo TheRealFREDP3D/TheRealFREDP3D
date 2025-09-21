@@ -64,30 +64,27 @@ I'm a dedicated self-learner with a straightforward approach:
 <div align="center">
 
 **📊 TryHackMe**
-
+  
   <img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="TryHackMe">  
 
 ---  
 
 **📊 Hackthebox Stats**
 
-  <img src="_attachement/htb_profile.png" alt="HackTheBox Profile">
-
+  <img src="_attachement/htb_profile.png" alt="HackTheBox Profile">  
+  
 ---  
 
 **📊 WeChall Stats**  
 
-  <img src="./_attachement/WeChall-Profile.jpg" alt="WeChall Profile">  
-
-  <br>  
-
-  <img src="./_attachement/wechall-graph.png" alt="WeChall XP Graph">    
+  <img src="_attachement/wechall-graph.png" alt="WeChall Stats">  
+  <img src="_attachement/wechall-profile.png" alt="WeChall Profile">  
 
 ---  
 
 **📊 echoCTF.red Stats**
 
-  <a href="https://echoctf.red/profile/1282669/badge"><img src="https://echoctf.red/profile/1282669/badge" alt="echoCTF.RED"></a>
+  <a href="https://echoctf.red/profile/1282669/badge"><img src="https://echoctf.red/profile/1282669/badge" alt="echoCTF.RED"></a>  
 
 ---  
 
