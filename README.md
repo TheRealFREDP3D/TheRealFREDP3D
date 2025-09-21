@@ -1,8 +1,8 @@
-# Frederick Pellerin (TheRealFredP3D)
+# Frederick Pellerin (TheRealFredP3D)  
 
 <div align="center">
   
-  [![Header](_attachement/header.jpg)]
+  <img src="_attachement/header.jpg" alt="Header Image">  
   
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheRealFREDP3D)
   [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FredP3D)
@@ -30,13 +30,26 @@ Tech enthusiast from Quebec City, Canada with a passion for cybersecurity, AI, a
 
 A crew of AI agents that find world news demonstrating how George Orwell's "1984" remains relevant today. The system generates reports and illustration prompts.
 
-### [BanditGUI](https://github.com/therealfredp3d/BanditGUI)
+### [Making-BanditGUI](https://github.com/therealfredp3d/Making-BanditGUI)
 
-A GUI tool to help players complete the Bandit challenges on OverTheWire.
+A GUI tool to help players complete the Bandit challenges on OverTheWire, in a web browser. Still a work in progress.  
+`Level 0` is playable now. 
 
-### [Mix Coding Exercises]((https://github.com/therealfredp3d/Coding-Exercises))
+### [Gemini Code Assistant PR Poetry](https://github.com/TheRealFREDP3D/Gemini-Code-Assist-PR-Poetry)  
+
+Just for fun collection of Gemini small poems generated with Pull Request Reviews.  
+
+### [PullPal](https://github.com/TheRealFREDP3D/PullPal)  
+
+Get transcripts of any pull request conversation/commentary and its linked issues. Any PR # from any public repo. Quickly consult old conversation with PR AI bots. Uses Github API. 
+
+### [Mix Coding Exercises](https://github.com/therealfredp3d/Coding-Exercises)
 
 A collection scripts I made learning to code, solving CTF, reading books, etc.  
+
+### [CTF-Toolkit](https://github.com/TheRealFREDP3D/CTF-TUI)  
+
+The CTF Toolkit provides an integrated environment combining terminal operations, note-taking, AI assistance, and tool management in a single, efficient interface. Built with Python's Textual framework, it aims to enhance productivity for CTF players  
 
 ### Coming Soon
 
@@ -63,16 +76,22 @@ I'm a dedicated self-learner with a straightforward approach:
 
 <div align="center">
 
-**📊 TryHackMe**
+**📊 Certificates**
   
-  <img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="TryHackMe">  
+[View the Notion page](https://therealfred.notion.site/1d5795af396a80dcab48d1d18ac7b7b2?v=1d5795af396a817f9f88000c068a14f9&pvs=74)
 
 ---  
 
 **📊 Hackthebox Stats**
 
-  <img src="_attachement/htb_profile.png" alt="HackTheBox Profile">  
+  <img src="_attachement/htb_profile.png" alt="HackTheBox Profile">    
   
+--- 
+
+**📊 Tryhackme Stats**
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="Your Image Badge" />  
+
 ---  
 
 **📊 WeChall Stats**  
@@ -82,8 +101,9 @@ I'm a dedicated self-learner with a straightforward approach:
 
 ---  
 
-**📊 echoCTF.red Stats**
+**📊 echoCTF.red Stats**  
 
+  <a href="https://echoctf.red/profile/1282669/badge"><img src="https://echoctf.red/profile/1282669/badge" alt="echoCTF.RED"></a>  
   <a href="https://echoctf.red/profile/1282669/badge"><img src="https://echoctf.red/profile/1282669/badge" alt="echoCTF.RED"></a>  
 
 ---  
@@ -94,8 +114,7 @@ I'm a dedicated self-learner with a straightforward approach:
 
 ---  
 
-  <a href="https://gitroll.io/profile/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2"><img src="https://gitroll.io/api/badges/profiles/v1/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2?theme=nord" alt="GitRoll Profile Badge"></a>
-</div>  
+<a href="https://gitroll.io/profile/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2?theme=midnight" alt="GitRoll Profile Badge"/></a> 
 
 ---  
 
@@ -106,7 +125,6 @@ I'm a dedicated self-learner with a straightforward approach:
   <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg" alt="Most Commit Language">
   <br>
   <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg" alt="Stats">
-  <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg" alt="Productive Time">
 
 ---  
 
@@ -125,8 +143,9 @@ I'm a dedicated self-learner with a straightforward approach:
   - [x] Article about planning my career change to IT/Cybersecurity
   - [x] Write-up for TryHackMe's "Brute-It" room
   
-- [ ] `**Work in progress**: N-PROGRESS` Learn static site generators (Jekyll, Hugo, or 11ty)
-- [ ] `**Work in progress**`: Regular writing to improve English language skills
+- [ ] `**Work in progress**: IN-PROGRESS` Learn static site generators (Jekyll, Hugo, or 11ty)  
+  
+- **Continous Work**`: Regular writing to improve English language skills
 
 ---  
 
@@ -134,4 +153,4 @@ I'm a dedicated self-learner with a straightforward approach:
 
 ---  
 
-*Last updated: March 2nd, 2025*
+*Last updated: May 2nd, 2025*
