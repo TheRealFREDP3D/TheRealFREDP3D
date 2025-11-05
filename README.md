@@ -103,7 +103,7 @@ I'm a dedicated self-learner with a straightforward approach:
 
 **📊 echoCTF.red Stats**  
   
-  [https://echoctf.red/profile/1282669/badge](https://echoctf.red/profile/1282669/badge)  
+  ![https://echoctf.red/profile/1282669/badge](./attachements/echoCTF-badge.png)  
 
 ---  
 
