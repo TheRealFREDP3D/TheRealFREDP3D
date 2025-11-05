@@ -103,8 +103,8 @@ I'm a dedicated self-learner with a straightforward approach:
 
 **📊 echoCTF.red Stats**  
   
-  ![https://echoctf.red/profile/1282669/badge](./attachements/echoCTF-badge.png)  
-
+  <img src="_attachement/echoCTF-badge.png" alt="echoCTF Profile Badge">  
+  
 ---  
 
 **📊 GitHub Stats**  
