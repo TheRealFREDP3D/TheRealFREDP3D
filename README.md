@@ -102,9 +102,8 @@ I'm a dedicated self-learner with a straightforward approach:
 ---  
 
 **📊 echoCTF.red Stats**  
-
-  <a href="https://echoctf.red/profile/1282669/badge"><img src="https://echoctf.red/profile/1282669/badge" alt="echoCTF.RED"></a>  
-  <a href="https://echoctf.red/profile/1282669/badge"><img src="https://echoctf.red/profile/1282669/badge" alt="echoCTF.RED"></a>  
+  
+  [https://echoctf.red/profile/1282669/badge](https://echoctf.red/profile/1282669/badge)  
 
 ---  
 
