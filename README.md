@@ -140,6 +140,9 @@ Some of the courses and learning tracks I completed:
 
 ---  
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## ✅ Progress Tracker
 
 - [x] Sort through notes and separate original content from reference material
