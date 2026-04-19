@@ -141,6 +141,11 @@ Some of the courses and learning tracks I completed:
 ---  
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## ✅ Progress Tracker
