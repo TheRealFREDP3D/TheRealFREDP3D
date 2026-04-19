@@ -155,9 +155,10 @@ No activity tracked
   - [x] Article about planning my career change to IT/Cybersecurity
   - [x] Write-up for TryHackMe's "Brute-It" room
   
-- [ ] `**Work in progress**: IN-PROGRESS` Learn static site generators (Jekyll, Hugo, or 11ty)  
-  
-- **Continous Work**`: Regular writing to improve English language skills
+- [X] Learn static site generators (Jekyll, Hugo, or 11ty)  
+  - [X] Publish a personal website: [https://therealfred.ca](https://therealfred.ca)
+
+**Continous Work**`: Regular writing to improve English language skills
 
 ---  
 
@@ -165,4 +166,4 @@ No activity tracked
 
 ---  
 
-*Last updated: May 2nd, 2025*
+*Last updated: April 19nd, 2026*
