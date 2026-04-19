@@ -78,10 +78,14 @@ I'm a dedicated self-learner with a straightforward approach:
 <div align="center">
 
 **📊 Certificates**
-  
+
+Some of the courses and learning tracks I completed:
 [View the Notion page](https://therealfred.notion.site/1d5795af396a80dcab48d1d18ac7b7b2?v=1d5795af396a817f9f88000c068a14f9&pvs=74)
 
+
 ---  
+
+## Stats and Misc
 
 **📊 Hackthebox Stats**
 
