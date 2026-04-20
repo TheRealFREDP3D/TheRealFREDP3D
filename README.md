@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="_attachement/desktop.jpg" alt="Header Image">  
+  <img src="_attachment/desktop.jpg" alt="Header Image">  
     
 
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheRealFREDP3D)
@@ -87,66 +87,50 @@ Some of the courses and learning tracks I completed:
 
 ## Stats and Misc
 
-**📊 Hackthebox Stats**
+**🎯 CTF Platforms**
 
-  <img src="_attachement/htb_profile.png" alt="HackTheBox Profile">    
-  
---- 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+  <div style="text-align: center;">
+    <img src="_attachment/HTB-Profile.png" alt="HackTheBox Profile" width="50%">
+    <p><small>HackTheBox</small></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="TryHackMe Badge" width="75%">
+    <p><small>TryHackMe</small></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="_attachment/wechall_score_graph.png" alt="WeChall.net Score Graph" width="50%">
+    <p><small>WeChall.net</small></p>
+  </div>
+</div>
 
-**📊 Tryhackme Stats**
+---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/FREDP3D.png" alt="Your Image Badge" />  
+**📊 GitHub Profile Stats**
 
----  
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" alt="Profile Details" width="45%">
+  <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" alt="Repos per Language" width="45%">
+  <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg" alt="Most Commit Language" width="45%">
+  <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg" alt="Stats" width="45%">
+</div>
 
-**📊 WeChall Stats**  
+---
 
-  <img src="_attachement/wechall-graph.png" alt="WeChall Stats">  
-  <img src="_attachement/wechall-profile.png" alt="WeChall Profile">  
+**� Activity Stats**
 
----  
-
-**📊 echoCTF.red Stats**  
-  
-  <img src="_attachement/echoCTF-badge.png" alt="echoCTF Profile Badge">  
-  
----  
-
-**📊 GitHub Stats**  
-
-<video controls src="_attachement/2024-Unwraped.mp4" title="Title"></video>  
-
----  
-
-<a href="https://gitroll.io/profile/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2?theme=midnight" alt="GitRoll Profile Badge"/></a> 
-
----  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" alt="Profile Details">
-  <br>
-  <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" alt="Repos per Language">
-  <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg" alt="Most Commit Language">
-  <br>
-  <img src="https://raw.githubusercontent.com/TheRealFREDP3D/github-profile-summary-card/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg" alt="Stats">
-
----  
-
-**📊 2024 WakaTime Stats**  
-
-![2024 Wakatime Stats](_attachement/2024-wakatime-summary.png)  
-
-</div>  
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+  <div style="text-align: center;">
+    <a href="https://gitroll.io/profile/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvV9uLBRhn8Nw3tMycuuRq1PcgIP2?theme=midnight" alt="GitRoll Profile Badge" width="70%"/></a>
+    <p><small>GitRoll</small></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="_attachment/wakatime-2025.png" alt="Wakatime Summary" width="70%">
+    <p><small>WakaTime 2025</small></p>
+  </div>
+</div>
 
 ---  
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ## ✅ Progress Tracker
 
