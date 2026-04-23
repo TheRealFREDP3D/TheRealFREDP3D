@@ -91,7 +91,7 @@ Some of the courses and learning tracks I completed:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <div style="text-align: center;">
-    <img src="_attachment/HTB-Profile.png" alt="HackTheBox Profile" width="50%">
+    <img src="_attachment/HTB-Profile-New-Style.png" alt="HackTheBox Profile" width="50%">
     <p><small>HackTheBox</small></p>
   </div>
   <div style="text-align: center;">
