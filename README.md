@@ -18,12 +18,16 @@ Tech enthusiast from Quebec City, Canada with a passion for cybersecurity, AI, a
 
 > "Always learning. Always exploring. Join me on the journey!"
 
+---
+
 ## 🔭 Current Focus
 
 - **AI & Machine Learning:** Exploring LLMs and AI applications
 - **Cybersecurity:** Training on HackTheBox, TryHackMe, and other platforms
 - **Python Development:** Building tools and automation projects
 - **Web Development:** Learning static site generators for my upcoming personal website
+
+---
 
 ## 🚀 Featured Projects
 
@@ -52,10 +56,16 @@ A collection scripts I made learning to code, solving CTF, reading books, etc.
 
 The CTF Toolkit provides an integrated environment combining terminal operations, note-taking, AI assistance, and tool management in a single, efficient interface. Built with Python's Textual framework, it aims to enhance productivity for CTF players  
 
+---
+
 ### Coming Soon
 
-- Personal website documenting my learning journey
+- [X]Personal website documenting my learning journey
+  Site is live at [therealfredp.ca](https://therealfred.ca)
+
 - More tools for cybersecurity training and AI experimentation
+
+---
 
 ## 🧠 Learning Philosophy
 
@@ -65,6 +75,8 @@ I'm a dedicated self-learner with a straightforward approach:
 - **Practical Application:** Converting theory into practice through personal projects
 - **Continuous Improvement:** Regular writing and coding to refine my skills
 
+---
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -73,18 +85,22 @@ I'm a dedicated self-learner with a straightforward approach:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
+---
+
 ## 🏆 Certifications & Achievements
 
 <div align="center">
 
-**📊 Certificates**
+--- 
 
-Some of the courses and learning tracks I completed:
-[View the Notion page](https://therealfred.notion.site/1d5795af396a80dcab48d1d18ac7b7b2?v=1d5795af396a817f9f88000c068a14f9&pvs=74)
+**📊 Certificates and Completed Courses**
 
+- [Open Credly Profile](https://www.credly.com/users/frederick-pellerin)
+
+- I made a page to keep track of courses and various learning tracks I have completed: [Course Tracker](https://therealfred.notion.site/1d5795af396a80dcab48d1d18ac7b7b2?v=1d5795af396a817f9f88000c068a14f9&pvs=74)
 
 ---  
-
+ 
 ## Stats and Misc
 
 **🎯 CTF Platforms**
@@ -150,4 +166,4 @@ Some of the courses and learning tracks I completed:
 
 ---  
 
-*Last updated: April 19nd, 2026*
+*Last updated: April 21st, 2026*
