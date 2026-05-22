@@ -61,7 +61,7 @@ The CTF Toolkit provides an integrated environment combining terminal operations
 ### Coming Soon
 
 - [X]Personal website documenting my learning journey
-  Site is live at [therealfredp.ca](https://therealfred.ca)
+  Site is live at [therealfred.ca](https://therealfred.ca)
 
 - More tools for cybersecurity training and AI experimentation
 
