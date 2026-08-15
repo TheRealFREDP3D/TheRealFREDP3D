@@ -107,7 +107,7 @@ I'm a dedicated self-learner with a straightforward approach:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <div style="text-align: center;">
-    <img src="_attachment/HTB-Profile-New-Style.png" alt="HackTheBox Profile" width="50%">
+    <img src="_attachment/Hackthebox-Badge.png" alt="HackTheBox Profile" width="50%">
     <p><small>HackTheBox</small></p>
   </div>
   <div style="text-align: center;">
@@ -133,7 +133,7 @@ I'm a dedicated self-learner with a straightforward approach:
 
 ---
 
-**� Activity Stats**
+**  Activity Stats**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <div style="text-align: center;">
